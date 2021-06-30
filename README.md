@@ -1,2 +1,3 @@
-# TweetAnalysisECommerce
-E-Commerce site customer tweet analysis 
+# E-Comm TweetAnalyzer
+
+Data  mining  can  be  used  for  data  analysis  of social media users who visit E-Commerce webportals. This project uses data mining  techniques  aimed  at  comparing  the  classification  in sentiment  analysis  from  the  views  of  E-Commerce  customers who have been written on Twitter. The data set is derived from tweets about  E-Commerce in  Tokopedia and  Bukalapak. Text mining  techniques,  transform,  tokenize,  stem,  classification, etc.  are  used  to  build  classification  and analysis  of sentiment analysis.  Rapidminer is  also used  to assist  in making  analysis sentiments  for  comparison  by  using  three  different classifications in the dataset with the Decision Tree, K-NN, and Naïve  Bayes  Classifier  approaches  to  find  the  best accuracy. The  highest  result  of  this study is the Naïve Bayes approach with an accuracy of 77%, precision 88.50% and recall of 64%
